@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div className="container-fluid px-0 py-2 primary-bg-color" id="navbar-container">
             <div className="container">
-                <Link to="/">Github API</Link>
+                <Link to="/">Github APP</Link>
             </div>
         </div>
     );
