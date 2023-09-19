@@ -8,7 +8,7 @@ const DefaultErrorComponent = () => {
     <div className="container mt-3 mt-lg-4 mt-xl-5 text-center" id="error-container">
       <div className="alert alert-danger" role="alert">
         <h1 className="alert-heading">Oops!</h1>
-        <p>Sorry, an unexpected error has occurred.</p>
+        <p>Desculpe, algum erro inesperado ocorreu.</p>
         <hr />
         <p className="mb-0"> <i>{error.statusText || error.message}</i></p>
       </div>

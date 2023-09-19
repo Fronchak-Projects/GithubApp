@@ -115,7 +115,7 @@ const ProfileSearch = () => {
         { isNotFound && (
           <div>
             <div className="alert alert-danger" role="alert">
-              Sorry, there is no Github profile with this username
+              Desculpe, não existe nenhum perfil do Github com esse nome
             </div>
           </div>
         ) }
