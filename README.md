@@ -1,6 +1,8 @@
 # Github APP
 An aplication to search for a github account based on its name
 
+## [Click here](https://github-app-fronchak-projects.vercel.app) to go the project page
+
 ## Requipements
 * Node 18
 * Npm 9.8
@@ -16,3 +18,12 @@ An aplication to search for a github account based on its name
 
 ### Home page
 ![Project  home page](public/imgs/home-page.png)
+
+### Seach page
+![Project search page](public/imgs/search-page.png)
+
+### Successful search
+![Successful search](public/imgs/search.png)
+
+### Profile not found
+![Profile not found](public/imgs/search-error.png)
