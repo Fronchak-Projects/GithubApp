@@ -1,7 +1,7 @@
 # Github APP
 An aplication to search for a github account based on its name
 
-## [Click here](https://github-app-fronchak-projects.vercel.app) to go the project page
+## [Click here](https://github-app-fronchak-projects.vercel.app) to go to the project page
 
 ## Requipements
 * Node 18
